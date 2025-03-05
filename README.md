@@ -56,7 +56,7 @@ npm run dev
 ```
 ## Live Link:
 ```
-https://api-product-inventory.vercel.app//api/products
+https://api-product-inventory.vercel.app/api/products
 ```
 ## Testing
 
