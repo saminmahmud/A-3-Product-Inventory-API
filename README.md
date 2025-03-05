@@ -39,8 +39,8 @@ npm run dev
 - **GET** `/api/products`: Get all products
 - **GET** `/api/products?sort=asc`: Get all products with sort price (asc or desc)
 - **GET** `/api/products/:id`: Get a specific product by ID
-- **GET** `/api/products/category/Furniture`: Filter products by category
-- **GET** `/api/products/category/Furniture?sort=desc`: Filter products by category with sort price (asc or desc)
+- **GET** `/api/products/category/category_name`: Filter products by category
+- **GET** `/api/products/category/category_name?sort=desc`: Filter products by category with sort price (asc or desc)
 - **PUT** `/api/products/:id`: Update a product by ID
 - **DELETE** `/api/products/:id`: Delete a product by ID
 
